@@ -29,6 +29,16 @@ Day 14 - [Higher Lower Game Project][d14]
 
 Day 15 - [Local Development Environment Setup & the Coffee Machine][d15]
 
+Day 16 - [Object Oriented Programming (OOP)][d16]
+
+Day 17 - [The Quiz Project & the Benefits of OOP][d17]
+
+Day 18 - [Turtle & the Graphical User Interface (GUI)][d18]
+
+Day 19 - [Instances, State and Higher Order Functions][d19]
+
+Day 21 - [Build the Snake Game Part 2: Inheritance & List Slicing][d21]
+
 [d1]: <https://github.com/devfrompoa/100-days-of-python/tree/main/band-name-generator>
 [d2]: <https://github.com/devfrompoa/100-days-of-python/tree/main/tip-calculator>
 [d3]: <https://github.com/devfrompoa/100-days-of-python/tree/main/treasure-island>
@@ -42,3 +52,8 @@ Day 15 - [Local Development Environment Setup & the Coffee Machine][d15]
 [d12]: <https://github.com/devfrompoa/100-days-of-python/tree/main/guess-the-number>
 [d14]: <https://github.com/devfrompoa/100-days-of-python/tree/main/higher-lower>
 [d15]: <https://github.com/devfrompoa/100-days-of-python/tree/main/CoffeeMachine>
+[d16]: <https://github.com/devfrompoa/100-days-of-python/tree/main/oop-coffee-machine>
+[d17]: <https://github.com/devfrompoa/100-days-of-python/tree/main/quiz-game>
+[d18]: <https://github.com/devfrompoa/100-days-of-python/tree/main/hirst-painting>
+[d19]: <https://github.com/devfrompoa/100-days-of-python/tree/main/turtle-race>
+[d21]: <https://github.com/devfrompoa/100-days-of-python/tree/main/snake_game>
