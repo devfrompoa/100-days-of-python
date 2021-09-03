@@ -43,6 +43,8 @@ Day 22 - [Build Pong: The Famous Arcade Game][d22]
 
 Day 23 - [The Turtle Crossing Capstone Project][d23]
 
+Day 24 - [Files, Directories and Paths][d24]
+
 [d1]: <https://github.com/devfrompoa/100-days-of-python/tree/main/band-name-generator>
 [d2]: <https://github.com/devfrompoa/100-days-of-python/tree/main/tip-calculator>
 [d3]: <https://github.com/devfrompoa/100-days-of-python/tree/main/treasure-island>
@@ -63,3 +65,4 @@ Day 23 - [The Turtle Crossing Capstone Project][d23]
 [d21]: <https://github.com/devfrompoa/100-days-of-python/tree/main/snake_game>
 [d22]: <https://github.com/devfrompoa/100-days-of-python/tree/main/Pong>
 [d23]: <https://github.com/devfrompoa/100-days-of-python/tree/main/turtle-crossing>
+[d24]: <https://github.com/devfrompoa/100-days-of-python/tree/main/Snake_v2>
