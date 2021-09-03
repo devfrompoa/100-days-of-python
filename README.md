@@ -39,6 +39,10 @@ Day 19 - [Instances, State and Higher Order Functions][d19]
 
 Day 21 - [Build the Snake Game Part 2: Inheritance & List Slicing][d21]
 
+Day 22 - [Build Pong: The Famous Arcade Game][d22]
+
+Day 23 - [The Turtle Crossing Capstone Project][d23]
+
 [d1]: <https://github.com/devfrompoa/100-days-of-python/tree/main/band-name-generator>
 [d2]: <https://github.com/devfrompoa/100-days-of-python/tree/main/tip-calculator>
 [d3]: <https://github.com/devfrompoa/100-days-of-python/tree/main/treasure-island>
@@ -57,3 +61,5 @@ Day 21 - [Build the Snake Game Part 2: Inheritance & List Slicing][d21]
 [d18]: <https://github.com/devfrompoa/100-days-of-python/tree/main/hirst-painting>
 [d19]: <https://github.com/devfrompoa/100-days-of-python/tree/main/turtle-race>
 [d21]: <https://github.com/devfrompoa/100-days-of-python/tree/main/snake_game>
+[d22]: <https://github.com/devfrompoa/100-days-of-python/tree/main/Pong>
+[d23]: <https://github.com/devfrompoa/100-days-of-python/tree/main/turtle-crossing>
