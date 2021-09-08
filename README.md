@@ -1,6 +1,12 @@
 # 100-days-of-python
 100 Days of Code - The Complete Python Pro Bootcamp for 2021
 
+## About
+
+My solves for this excellent [Python course][udemy_course] from Dr. Angela Yu.
+
+Master Python by building 100 projects in 100 days. Learn to build websites, games, apps, plus scraping and data science
+
 ## Contents
 
 Day 1 - [Working with Variables in Python to Manage Data][d1]
@@ -47,6 +53,7 @@ Day 24 - [Files, Directories and Paths][d24]
 
 Day 25 - [Working with CSV Data and the Pandas Library][d25]
 
+[udemy_course]: <https://www.udemy.com/course/100-days-of-code/>
 [d1]: <https://github.com/devfrompoa/100-days-of-python/tree/main/band-name-generator>
 [d2]: <https://github.com/devfrompoa/100-days-of-python/tree/main/tip-calculator>
 [d3]: <https://github.com/devfrompoa/100-days-of-python/tree/main/treasure-island>
