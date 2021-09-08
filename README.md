@@ -45,6 +45,8 @@ Day 23 - [The Turtle Crossing Capstone Project][d23]
 
 Day 24 - [Files, Directories and Paths][d24]
 
+Day 25 - [Working with CSV Data and the Pandas Library][d25]
+
 [d1]: <https://github.com/devfrompoa/100-days-of-python/tree/main/band-name-generator>
 [d2]: <https://github.com/devfrompoa/100-days-of-python/tree/main/tip-calculator>
 [d3]: <https://github.com/devfrompoa/100-days-of-python/tree/main/treasure-island>
@@ -66,3 +68,4 @@ Day 24 - [Files, Directories and Paths][d24]
 [d22]: <https://github.com/devfrompoa/100-days-of-python/tree/main/pong>
 [d23]: <https://github.com/devfrompoa/100-days-of-python/tree/main/turtle-crossing>
 [d24]: <https://github.com/devfrompoa/100-days-of-python/tree/main/snake_v2>
+[d25]: <https://github.com/devfrompoa/100-days-of-python/tree/main/us-states-game>
