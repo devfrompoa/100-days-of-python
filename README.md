@@ -78,4 +78,4 @@ Day 26 - [List Comprehension and the NATO Alphabet][d26]
 [d23]: <https://github.com/devfrompoa/100-days-of-python/tree/main/turtle-crossing>
 [d24]: <https://github.com/devfrompoa/100-days-of-python/tree/main/snake_v2>
 [d25]: <https://github.com/devfrompoa/100-days-of-python/tree/main/us-states-game>
-[d26]: <https://github.com/devfrompoa/100-days-of-python/tree/main/NATO-alphabet-start>
+[d26]: <https://github.com/devfrompoa/100-days-of-python/tree/main/day-26/NATO-alphabet-start>
