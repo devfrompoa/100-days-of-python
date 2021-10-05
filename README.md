@@ -53,6 +53,8 @@ Day 24 - [Files, Directories and Paths][d24]
 
 Day 25 - [Working with CSV Data and the Pandas Library][d25]
 
+Day 26 - [List Comprehension and the NATO Alphabet][d26]
+
 [udemy_course]: <https://www.udemy.com/course/100-days-of-code/>
 [d1]: <https://github.com/devfrompoa/100-days-of-python/tree/main/band-name-generator>
 [d2]: <https://github.com/devfrompoa/100-days-of-python/tree/main/tip-calculator>
@@ -76,3 +78,4 @@ Day 25 - [Working with CSV Data and the Pandas Library][d25]
 [d23]: <https://github.com/devfrompoa/100-days-of-python/tree/main/turtle-crossing>
 [d24]: <https://github.com/devfrompoa/100-days-of-python/tree/main/snake_v2>
 [d25]: <https://github.com/devfrompoa/100-days-of-python/tree/main/us-states-game>
+[d26]: <https://github.com/devfrompoa/100-days-of-python/tree/main/NATO-alphabet-start>
